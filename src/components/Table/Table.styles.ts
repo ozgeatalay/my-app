@@ -4,13 +4,12 @@ import colors from '../Theme/theme';
 const {WHITE, LIGHT_BLUE} = colors
 
 interface ITableTH {
-    tableHeadWidth: string
-  }
+  tableHeadWidth: string
+}
   
 export const Table = styled.table`
 padding-top: 3px
-`;
-
+`
 
 export const TableTH = styled.th<ITableTH>`
 color: ${WHITE};

@@ -1,1 +1,0 @@
-export enum ActionCompany {type: 'TYPE_COMPANIES', payload: string}

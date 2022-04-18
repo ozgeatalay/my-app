@@ -12,14 +12,12 @@ margin-top: 2px;
 margin-left: 3px;
 `
 
-
 export const Line = styled.div`
 width:15px;
 background: ${BLACK};
 height:2px;
 display:flex;
 `
-
 
 export const Point = styled.div`
 border-top: 4px solid transparent;

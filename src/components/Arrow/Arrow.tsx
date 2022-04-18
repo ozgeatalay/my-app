@@ -1,9 +1,8 @@
-
-import {StyledArrow, Line, Point}  from './Arrow.styles';
+import { StyledArrow, Line, Point } from "./Arrow.styles";
 
 export const Arrow = () => (
   <StyledArrow>
-    <Line/>
-    <Point/>
+    <Line />
+    <Point />
   </StyledArrow>
-)
+);

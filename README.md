@@ -5,10 +5,11 @@ This projects is a example of Gartner Magic Quadrant Chart. You can add data to 
 
 ## Available Scripts
 After cloning the project, you can download the necessary packages with:
-### `npm start` yarn install 
+
+### yarn install 
 
 command and start the project with
-###  yarn start command.
+### `yarn start`
 
 
 For live version please copy and paste your browser this url:  http://213.159.28.4:3000/
